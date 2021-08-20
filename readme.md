@@ -1,7 +1,7 @@
 
 ###### Visual A* Pathfinder algorithm using Manhattan distance.  
 
-###### **Controls:  **
+###### Controls:
 
 1. Run the code.  
 2. Click once (using left mouse click) on a node to create a starting point.  
