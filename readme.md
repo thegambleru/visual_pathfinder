@@ -9,3 +9,7 @@
 4. Click (using left mouse click) as many times as you'd like to create "walls" (locked nodes which must be avoided by the algorithm while still reaching the destination).  
 5. Press "spacebar" and watch it work!  
 6. Press the "R" key to reset it.  
+
+Libraries used:
+1. pygame
+2. queue/ PriorityQueue
