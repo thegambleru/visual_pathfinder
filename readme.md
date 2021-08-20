@@ -10,6 +10,6 @@
 5. Press "spacebar" and watch it work!  
 6. Press the "R" key to reset it.  
 
-Libraries used:
+###### Libraries used:
 1. pygame
 2. queue/ PriorityQueue
